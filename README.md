@@ -13,7 +13,7 @@ Most of my work is very hands-on. Whether it's upgrading a legacy banking system
 
 ### About Me
 
-- **Principal Consultant** at Oracle, where I help global banks modernize their core systems.
+- **Principal Consultant** at Oracle, where I help global banks modernize their core banking systems.
 - Currently digging into how we can use AI and GenAI to transform the everyday banking landscape.
 - Outside of my day job, building low-latency trading bots from scratch is a passionate side project of mine.
 - I strongly prefer showing actual, working code over collecting meaningless certifications.
